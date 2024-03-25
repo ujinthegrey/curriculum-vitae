@@ -5,7 +5,7 @@ Samara, Russia
 ## CONTACTS
 - [github.com/ujinthegrey](https://github.com/ujinthegrey)
 - v4deus@gmail.com
-- [telegram](https://t.me/ujinthegrey)
+- [telegram: @ujinthegrey](https://t.me/ujinthegrey)
 
 ## PROJECTS
 - [Messianic Psalms (Astro)](https://messianic-psalms.netlify.app) (also see repository on  [github](https://github.com/ujinthegrey/messianic-psalms-astro))
