@@ -1,6 +1,9 @@
 # EUGENE KOSHELEV
+```
 Front-end Developer
 Samara, Russia
+```
+---
 
 ## CONTACTS
 - github.com/ujinthegrey
@@ -8,8 +11,8 @@ Samara, Russia
 - telegram: @ujinthegrey
 
 ## PROJECTS
-- [Messianic Psalms (Astro)](https://messianic-psalms.netlify.app)
-- [Fast Pizza (React)](https://koshelev-react-pizza.netlify.app)
+- [Messianic Psalms (Astro)](https://messianic-psalms.netlify.app) ([on github](https://github.com/ujinthegrey/messianic-psalms-astro))
+- [Fast Pizza (React)](https://koshelev-react-pizza.netlify.app) ([on github](https://github.com/ujinthegrey/fast-react-pizza))
 
 ## SKILLS
 - HTML, CSS, JS
