@@ -3,8 +3,8 @@ Front-end Developer\
 Samara, Russia
 
 ## CONTACTS
-- [github.com/ujinthegrey](https://github.com/ujinthegrey)\
-- v4deus@gmail.com\
+- [github.com/ujinthegrey](https://github.com/ujinthegrey)
+- v4deus@gmail.com
 - telegram: @ujinthegrey
 
 ## PROJECTS
