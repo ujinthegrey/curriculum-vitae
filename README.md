@@ -21,11 +21,13 @@ Samara, Russia
 - Node
 - Vite
 - Redux
+- React Query
 - Firebase
+- Supabase
 
 ## EDUCATION
 - 2012-2015 Samara State University of Economics, Bachelor of Law
 - 2005-2011 Samara National Research University (Samara State Aerospace University), Engineer
 
-*CV Updated 25-Mar-2024*
+*CV Updated 15-Apr-2024*
 
