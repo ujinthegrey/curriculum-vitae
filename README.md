@@ -3,9 +3,9 @@ Front-end Developer\
 Samara, Russia
 
 ## CONTACTS
-- [github](https://github.com/ujinthegrey)
-- [email](v4deus@gmail.com)
-- [telegram](https://t.me/ujinthegrey)
+- v4deus@gmail.com
+- [github.com/ujinthegrey](https://github.com/ujinthegrey)
+- [telegram: @ujinthegrey](https://t.me/ujinthegrey)
 
 ## EXPERIENCE (2 years)
 - Made a filterable and sortable menu of items loaded from the API
