@@ -34,13 +34,12 @@ Samara, Russia
 - Supabase
 
 ## PROJECTS
-- [The Wild Oasis (React)](https://koshelev-wild-oasis.netlify.app) (use email: `test@test.com` and password: `testtest`,\
-also see repository on [github](https://github.com/ujinthegrey/the-wild-oasis))\
-An app for a small boutique hotel with 8 luxurious cabins. This custom-build app helps to manage everithing about the hotel: bookings, cabins and guests. This is the internal app used inside the hotel to check in quests while theu arrive. The app is connected to the Supabase API, that also can be used lately for a customer-facing website.
+- [The Wild Oasis (React)](https://koshelev-wild-oasis.netlify.app) (use email: `test@test.com` and password: `testtest`, also see repository on [github](https://github.com/ujinthegrey/the-wild-oasis))\
+An app for a small boutique hotel with 8 luxurious cabins. This custom-build app helps to manage everything about the hotel: bookings, cabins and guests. This is the internal app used inside the hotel to check in quests while they arrive. The app is connected to the Supabase API, that also can be used lately for a customer-facing website.
 - [Messianic Psalms (Astro)](https://messianic-psalms.netlify.app) (also see repository on  [github](https://github.com/ujinthegrey/messianic-psalms-astro))\
-A custom blog about the so-called Messianic Psalms. The application gives the possibility to listen to or read sermons about Messianic Psalms. A beautiful and concise design with a thematic banner helps the user to pay their full attention to the meaning of the Messianic Psalms.
+A custom blog about the so-called Messianic Psalms. The application gives the possibility to listen to or read sermons on Messianic Psalms. A beautiful and concise design with a thematic banner helps the user to pay their full attention to the meaning of the Messianic Psalms.
 - [Fast Pizza (React)](https://koshelev-react-pizza.netlify.app) (also see repository on [github](https://github.com/ujinthegrey/fast-react-pizza))\
-A cool app for ordering pizza. The app is connected to it&#39;s own API and helps the user very quickly order any available pizza. The user does not require any authentication or authorization, they can simply provide their address and the name for the delivery service.
+A cool app for ordering pizza. The app is connected to it&#39;s own API and helps the user very quickly order any available pizza. The user needs not any authentication or authorization. They can simply provide their address and the name for the delivery service.
 
 ## EDUCATION
 - 2012-2015 Samara State University of Economics, Bachelor of Law
