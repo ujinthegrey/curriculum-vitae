@@ -7,14 +7,14 @@ Samara, Russia
 - [github.com/ujinthegrey](https://github.com/ujinthegrey)
 - [telegram: @ujinthegrey](https://t.me/ujinthegrey)
 
-## EXPERIENCE (2 years)
+## EXPERIENCE (1.5 years)
 - Made a filterable and sortable menu of items loaded from the API
 - Made a form to create an order by sending a POST request with an order data (user data + cart data) to the API
-- Added a button to automaticaly get user&#39;s geolocation for a delivery form (used custom fetching function and createAsyncThubk from @reduxjs/toolkit)
+- Added a button to automaticaly get user&#39;s geolocation for a delivery form (used custom fetching function and createAsyncThunk from @reduxjs/toolkit)
 - Added a button to prioritize the order by sending a PATCH request with a new status to the API
 - Made a dark mode toggle with a custom hook (based on a useLocalStorage) taking in a account user&#39;s system preferences 
 - Build a backend for the CRM app with a Supabase (several tables, couple of storage buckets, list of users, and important policy rules to guard the app)
-- Added a form to create and update data for the CRM app
+- Added a form to create and update booking data for the CRM app
 - Made a table view with filter, sort and pagination for all bookings loaded from the API
 - Added a reusable modal window with a Compound Component structure
 - etc.
@@ -35,13 +35,16 @@ Samara, Russia
 
 ## PROJECTS
 - [The Wild Oasis (React)](https://koshelev-wild-oasis.netlify.app) (use email: `test@test.com` and password: `testtest`,\
-also see repository on [github](https://github.com/ujinthegrey/the-wild-oasis))
-- [Messianic Psalms (Astro)](https://messianic-psalms.netlify.app) (also see repository on  [github](https://github.com/ujinthegrey/messianic-psalms-astro))
-- [Fast Pizza (React)](https://koshelev-react-pizza.netlify.app) (also see repository on [github](https://github.com/ujinthegrey/fast-react-pizza))
+also see repository on [github](https://github.com/ujinthegrey/the-wild-oasis))\
+An app for a small boutique hotel with 8 luxurious cabins. This custom-build app helps to manage everithing about the hotel: bookings, cabins and guests. This is the internal app used inside the hotel to check in quests while theu arrive. The app is connected to the Supabase API, that also can be used lately for a customer-facing website.
+- [Messianic Psalms (Astro)](https://messianic-psalms.netlify.app) (also see repository on  [github](https://github.com/ujinthegrey/messianic-psalms-astro))\
+A custom blog about the so-called Messianic Psalms. The application gives the possibility to listen to or read sermons about Messianic Psalms. A beautiful and concise design with a thematic banner helps the user to pay their full attention to the meaning of the Messianic Psalms.
+- [Fast Pizza (React)](https://koshelev-react-pizza.netlify.app) (also see repository on [github](https://github.com/ujinthegrey/fast-react-pizza))\
+A cool app for ordering pizza. The app is connected to it&#39;s own API and helps the user very quickly order any available pizza. The user does not require any authentication or authorization, they can simply provide their address and the name for the delivery service.
 
 ## EDUCATION
 - 2012-2015 Samara State University of Economics, Bachelor of Law
 - 2005-2011 Samara National Research University (Samara State Aerospace University), Engineer
 
-*CV Updated 08-May-2024*
+*CV Updated 10-May-2024*
 
