@@ -30,8 +30,7 @@ Front-end Разработчик\
 - Git
 - Node
 - Vite
-- Redux
-- Redux-saga
+- Redux (react-redux, redux-saga, redux toolkit, reselect)
 - React Query (TanStack Query)
 - Firebase
 - Supabase
