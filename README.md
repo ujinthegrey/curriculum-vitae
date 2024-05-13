@@ -8,15 +8,17 @@ Samara, Russia
 - [telegram: @ujinthegrey](https://t.me/ujinthegrey)
 
 ## EXPERIENCE (1.5 years)
-- Made a filterable and sortable menu of items loaded from the API
-- Made a form to create an order by sending a POST request with an order data (user data + cart data) to the API
-- Added a button to automaticaly get user&#39;s geolocation to the order form (used custom fetching function and createAsyncThunk from @reduxjs/toolkit)
-- Added a button to prioritize the order by sending a PATCH request with a new status to the API
 - Made a dark mode toggle with a custom hook (based on a useLocalStorage) taking in a account user&#39;s system preferences 
 - Build a backend for the CRM app with a Supabase (several tables, couple of storage buckets, list of users, and important policy rules to guard the app)
 - Added a form to create and update booking data for the CRM app
 - Made a table view with filter, sort and pagination for all bookings loaded from the API
 - Added a reusable modal window with a Compound Component structure
+- Made a filterable and sortable menu of items loaded from the API
+- Made a form to create an order by sending a POST request with an order data (user data + cart data) to the API
+- Added a button to automaticaly get user&#39;s geolocation to the order form (used custom fetching function and createAsyncThunk from @reduxjs/toolkit)
+- Added a button to prioritize the order by sending a PATCH request with a new status to the API
+- Writed styles for lots of components (used styled-components)
+- Made a custom blog with Astro
 - etc.
 
 ## SKILLS
