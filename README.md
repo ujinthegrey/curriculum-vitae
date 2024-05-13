@@ -31,9 +31,11 @@ Samara, Russia
 - Node
 - Vite
 - Redux
+- Redux-saga
 - React Query (TanStack Query)
 - Firebase
 - Supabase
+- Styled-component
 
 ## PROJECTS
 - [The Wild Oasis (React)](https://koshelev-wild-oasis.netlify.app) (use email: `test@test.com` and password: `testtest`, also see repository on [github](https://github.com/ujinthegrey/the-wild-oasis))\

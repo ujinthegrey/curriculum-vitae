@@ -31,9 +31,11 @@ Front-end Разработчик\
 - Node
 - Vite
 - Redux
+- Redux-saga
 - React Query (TanStack Query)
 - Firebase
 - Supabase
+- Styled-component
 
 ## PROJECTS
 - [The Wild Oasis (React)](https://koshelev-wild-oasis.netlify.app) (используйте email: `test@test.com` и password: `testtest`, также см. репозиторий на [github](https://github.com/ujinthegrey/the-wild-oasis))\
