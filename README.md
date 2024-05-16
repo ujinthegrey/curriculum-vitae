@@ -1,3 +1,4 @@
+[по-русски](https://github.com/ujinthegrey/curriculum-vitae/blob/main/rus.md)
 # EUGENE KOSHELEV
 Front-end Developer\
 Samara, Russia

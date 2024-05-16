@@ -1,3 +1,4 @@
+[in english](https://github.com/ujinthegrey/curriculum-vitae)
 # ЕВГЕНИЙ КОШЕЛЕВ
 Front-end Разработчик\
 Самара, Россия
@@ -7,7 +8,7 @@ Front-end Разработчик\
 - [github.com/ujinthegrey](https://github.com/ujinthegrey)
 - [telegram: @ujinthegrey](https://t.me/ujinthegrey)
 
-## ОПЫТ (стартап 1.5 года)
+## ОПЫТ (1.5 года)
 
 Участвовал в проекте по созданию приложения на React для заказа пиццы без необходимости авторизации. Выполнил следующие задачи:
 - Сделал фильтруемое и сортируемое меню из позиций, загружаемых с API
