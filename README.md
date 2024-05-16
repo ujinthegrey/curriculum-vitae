@@ -25,6 +25,7 @@ Participated in a project to develop a CRM React app to manage a small boutique 
 - Implemented an interface for creating and updating reservation data
 - Implemented a bookings display system with filtering, sorting and pagination, wich improved navigation and access to information
 - Developed a reusable modal window using the Compound Component structure.
+- Developed a dashboard interface with infographicsб wich improved the user experience
 - Also worked on page layout, tweaks, and bug fixes
 While the project worked with such technologies as: vite, react-router-dom, tanstack (react query), react-hook-form, react-error-boundary, react-icons, react-hot-toast, date-fns, recharts, styled-components, eslint, etc.
 
