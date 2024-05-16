@@ -19,6 +19,8 @@ Participated in a project to create a React app for ordering pizza without the n
 
 While the project worked with such technologies as: vite, react-router-dom, redux, react-redux, @reduxjs/toolkit, tailwindcss, postcss, styled-components, eslint, etc.
 
+---
+
 Participated in a project to develop a CRM React app to manage a small boutique hotel with several cabins. Performed the following tasks:
 - Designed the architecture of the app (based on Feature Sliced Design)
 - Developed a dark and light UI theme switcher, which improved the user experience
@@ -30,6 +32,8 @@ Participated in a project to develop a CRM React app to manage a small boutique 
 - Also worked on page layout, tweaks, and bug fixes
 
 While the project worked with such technologies as: vite, react-router-dom, tanstack (react query), react-hook-form, react-error-boundary, react-icons, react-hot-toast, date-fns, recharts, styled-components, eslint, etc.
+
+---
 
 Made a project of custom blog on Astro about Messianic Psalms. Performed the following tasks:
 - Designed the architecture of the app
