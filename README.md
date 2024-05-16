@@ -15,7 +15,8 @@ Participated in a project to create a React app for ordering pizza without the n
 - Added a feature to automaticaly get user geolocation, speeding up the formation of the order
 - Implemented the ability to mark orders as priority orders
 - Writed styles for many components of the appl (used styled-components)
-- I was also involved in page layout, tweaks, and bug fixes.
+- I was also involved in page layout, tweaks, and bug fixes
+
 While the project worked with such technologies as: vite, react-router-dom, redux, react-redux, @reduxjs/toolkit, tailwindcss, postcss, styled-components, eslint, etc.
 
 Participated in a project to develop a CRM React app to manage a small boutique hotel with several cabins. Performed the following tasks:
@@ -24,9 +25,10 @@ Participated in a project to develop a CRM React app to manage a small boutique 
 - Created Supabase backend (tables, storage buckets, user list and access settings for data protection)
 - Implemented an interface for creating and updating reservation data
 - Implemented a bookings display system with filtering, sorting and pagination, wich improved navigation and access to information
-- Developed a reusable modal window using the Compound Component structure.
+- Developed a reusable modal window using the Compound Component structure
 - Developed a dashboard interface with infographicsб wich improved the user experience
 - Also worked on page layout, tweaks, and bug fixes
+
 While the project worked with such technologies as: vite, react-router-dom, tanstack (react query), react-hook-form, react-error-boundary, react-icons, react-hot-toast, date-fns, recharts, styled-components, eslint, etc.
 
 Made a project of custom blog on Astro about Messianic Psalms. Performed the following tasks:
@@ -37,6 +39,7 @@ Made a project of custom blog on Astro about Messianic Psalms. Performed the fol
 - Created a custom 404 page
 - Developed a custom audio player
 - Also worked on page layout, tweaks, and bug fixes
+
 While the project worked with such technologies as: Astro, TypeScript, etc.
 
 ## SKILLS
