@@ -8,18 +8,35 @@ Samara, Russia
 - [telegram: @ujinthegrey](https://t.me/ujinthegrey)
 
 ## EXPERIENCE (1.5 years)
-- Made a dark mode toggle with a custom hook (based on a useLocalStorage) taking in a account user&#39;s system preferences 
-- Build a backend for the CRM app with a Supabase (several tables, couple of storage buckets, list of users, and important policy rules to guard the app)
-- Added a form to create and update booking data for the CRM app
-- Made a table view with filter, sort and pagination for all bookings loaded from the API
-- Added a reusable modal window with a Compound Component structure
-- Made a filterable and sortable menu of items loaded from the API
-- Made a form to create an order by sending a POST request with an order data (user data + cart data) to the API
-- Added a button to automaticaly get user&#39;s geolocation to the order form (used custom fetching function and createAsyncThunk from @reduxjs/toolkit)
-- Added a button to prioritize the order by sending a PATCH request with a new status to the API
-- Writed styles for lots of components (used styled-components)
-- Made a custom blog with Astro
-- etc.
+
+Participated in a project to create a React app for ordering pizza without the need for authorization. Performed the following tasks:
+- Made a filterable and sortable menu from the items loaded from the API
+- Implemented the system of order creation using REST API
+- Added a feature to automaticaly get user geolocation, speeding up the formation of the order
+- Implemented the ability to mark orders as priority orders
+- Writed styles for many components of the appl (used styled-components)
+- I was also involved in page layout, tweaks, and bug fixes.
+While the project worked with such technologies as: vite, react-router-dom, redux, react-redux, @reduxjs/toolkit, tailwindcss, postcss, styled-components, eslint, etc.
+
+Participated in a project to develop a CRM React app to manage a small boutique hotel with several cabins. Performed the following tasks:
+- Designed the architecture of the app (based on Feature Sliced Design)
+- Developed a dark and light UI theme switcher, which improved the user experience
+- Created Supabase backend (tables, storage buckets, user list and access settings for data protection)
+- Implemented an interface for creating and updating reservation data
+- Implemented a bookings display system with filtering, sorting and pagination, wich improved navigation and access to information
+- Developed a reusable modal window using the Compound Component structure.
+- Also worked on page layout, tweaks, and bug fixes
+While the project worked with such technologies as: vite, react-router-dom, tanstack (react query), react-hook-form, react-error-boundary, react-icons, react-hot-toast, date-fns, recharts, styled-components, eslint, etc.
+
+Made a project of custom blog on Astro about Messianic Psalms. Performed the following tasks:
+- Designed the architecture of the app
+- Designed the main page layout
+- Added thematic banner, generated images with AI, converted images to webp.
+- Implemented a navigation component, which improved the user experience
+- Created a custom 404 page
+- Developed a custom audio player
+- Also worked on page layout, tweaks, and bug fixes
+While the project worked with such technologies as: Astro, TypeScript, etc.
 
 ## SKILLS
 - HTML, CSS, JS
