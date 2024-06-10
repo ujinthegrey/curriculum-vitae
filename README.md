@@ -49,6 +49,7 @@ While the project worked with such technologies as: Astro, TypeScript, etc.
 
 ## SKILLS
 - HTML, CSS, JS
+- TypeScript
 - React
 - Astro
 - Frontity
@@ -74,5 +75,5 @@ A cool app for ordering pizza. The app is connected to it&#39;s own API and help
 - 2012-2015 Samara State University of Economics, Bachelor of Law
 - 2005-2011 Samara National Research University (Samara State Aerospace University), Engineer
 
-*CV Updated 10-May-2024*
+*CV Updated 10-Jun-2024*
 
