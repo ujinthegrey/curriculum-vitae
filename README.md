@@ -62,6 +62,7 @@ While the project worked with such technologies as: Astro, TypeScript, etc.
 - Firebase
 - Supabase
 - Styled-components
+- Tailwind
 
 ## PROJECTS
 - [The Wild Oasis (React)](https://koshelev-wild-oasis.netlify.app) (use email: `test@test.com` and password: `testtest`, also see repository on [github](https://github.com/ujinthegrey/the-wild-oasis))\
@@ -75,5 +76,5 @@ A cool app for ordering pizza. The app is connected to it&#39;s own API and help
 - 2012-2015 Samara State University of Economics, Bachelor of Law
 - 2005-2011 Samara National Research University (Samara State Aerospace University), Engineer
 
-*CV Updated 10-Jun-2024*
+*CV Updated 11-Jun-2024*
 

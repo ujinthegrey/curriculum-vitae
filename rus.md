@@ -62,6 +62,7 @@ Front-end Разработчик\
 - Firebase
 - Supabase
 - Styled-components
+- Tailwind
 
 ## PROJECTS
 - [The Wild Oasis (React)](https://koshelev-wild-oasis.netlify.app) (используйте email: `test@test.com` и password: `testtest`, также см. репозиторий на [github](https://github.com/ujinthegrey/the-wild-oasis))\
@@ -75,4 +76,4 @@ Front-end Разработчик\
 - 2012-2015 Самарский государственный экономический университет, Бакалавр юриспруденции, Правовое обеспечение хозяйственной деятельности
 - 2005-2011 Самарский национальный исследовательский университет имени академика С.П. Королева (бывш. СГАУ), Инженер, Проектирование и технология радиоэлектронных средств
 
-*CV Updated 10-Jun-2024*
+*CV Updated 11-Jun-2024*
